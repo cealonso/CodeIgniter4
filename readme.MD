@@ -1,6 +1,6 @@
-### Proyecto en CodeIgniter 4
+# Proyecto en CodeIgniter 4
 
-## En app/Config/App.php 
+### En app/Config/App.php 
 
 
 ```php
