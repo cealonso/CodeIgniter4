@@ -7,7 +7,7 @@
 public string $baseURL = 'http://localhost/app-ci';
 ```
 
-### En app/config/Database.php 
+### En app/Config/Database.php 
 
 ```php
 public array $default = [
